@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+      - image: quay.io/rhtap_qe/e2e-tests-java-springboot-ghrypwvh:b682783fd97e4d3890a95ad32b0ebfa5d24ba5bb
         name: container-image  
